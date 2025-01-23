@@ -1,11 +1,11 @@
 # keys_and_addresses.py
-# replace you key and address 
+# replace you privatkey and evm_address 
 private_keys = [
-    'your_private_key_here'  # Example: '9da...365' 
+    'privatkey'  # Example: '9da...365' 
 ]
 
 my_addresses = [
-    'your_address_here'  # Example: '0x087....E85' 
+    'evm_address'  # Example: '0x087....E85' 
 ]
 
 labels = [
